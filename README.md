@@ -1,7 +1,7 @@
 # Differential-Privacy-2019
 <h2>Differentially Private M-band Wavelet-Based Mechanisms in Machine Learning Environments</h2>
 
-<b>Author:</b> <a href="https://kennethchoi.info" target="_blank">Kenneth Choi</a>\
+<b>Author:</b> <a href="https://kenneth.mit.edu" target="_blank">Kenneth Choi</a>\
 <b>Mentor:</b> Dr. Xiaodi Wang\
 <b>Assistant:</b> Tony Lee\
 <b>Location:</b> Western Connecticut State University
