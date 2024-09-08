@@ -2,8 +2,7 @@
 <h2>Differentially Private M-band Wavelet-Based Mechanisms in Machine Learning Environments</h2>
 
 <b>Author:</b> <a href="https://kenneth.mit.edu" target="_blank">Kenneth Choi</a>\
-<b>Mentor:</b> Dr. Xiaodi Wang\
-<b>Assistant:</b> Tony Lee\
+<b>Mentor:</b> Prof. Xiaodi Wang\
 <b>Location:</b> Western Connecticut State University
 
 <b>Preprint:</b> https://arxiv.org/abs/2001.00012
